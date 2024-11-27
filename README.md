@@ -1,11 +1,10 @@
-# Weather API
+# Simple Weather App using Flutter 🌦️
 
 This project is a Flutter application that provides weather information using a weather API.
 
 ## Features
 
 - Current weather information
-- 7-day weather forecast
 - Search for weather by city
 - Display weather conditions with icons
 
@@ -17,6 +16,7 @@ This project is a Flutter application that provides weather information using a 
 - A weather API key from [OpenWeatherMap](https://openweathermap.org/api) or any other weather service
 
 ### ScreenShots
+![photo-collage png (1)](https://github.com/user-attachments/assets/77631aad-5cd2-4440-98d4-58072d6c1535)
 
 ### Installation
 
